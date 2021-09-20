@@ -1,6 +1,9 @@
 offerings:
+  - title: Fall 2020
+    url: https://sauleh.github.io/ds99/
+
   - title: Fall 2019
-    url: https://previous_course_website.url/
+    url: https://sauleh.github.io/ds98/
 
   - title: Fall 2018
     url: https://sauleh.github.io/ds97/

@@ -2,14 +2,14 @@
 title: Iran University of Science and Technology
 course_name: Data Structure
 course_description: In this course, we aim to introduce students to algorithm thinking with an emphasis on learning through doing. After examining syllabus and course material from top universities including <a href="https://www.coursera.org/specializations/algorithms">Stanford</a>, <a href="http://www.princeton.edu/~cos226">Princeton</a> and <a href=https://courses.csail.mit.edu/6.006/>MIT</a> we have chosen to follow the <a href="https://www.coursera.org/specializations/data-structures-algorithms">Data Structure and Algorithms Specialization</a> developed by <a href="https://alexanderskulikov.github.io/">Alexander S. Kulikov</a> due to excellent course material and its practical approach.
-course_semester: "Fall 2020"
+course_semester: "Fall 2021"
 description: |
     Instructor: Sauleh Eetemadi
 
 message: #Register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
-baseurl: "/ds99" # the subpath of your site, e.g. /blog/
-url: "http://sauleh.github.io/ds99" # the base hostname & protocol for your site
-syllabus: http://sauleh.github.io/ds99/syllabus/
+baseurl: "/ds00" # the subpath of your site, e.g. /blog/
+url: "http://sauleh.github.io/ds00" # the base hostname & protocol for your site
+syllabus: http://sauleh.github.io/ds00/syllabus/
 githubdir: 
 
 # Author/user information
