@@ -1,10 +1,10 @@
 ---
 type: lecture
-date: 2019-02-23T8:00:00+4:30
-title: Greedy Algorithms
-slides: /static_files/presentations/week3_greedy_algorithms.zip
-#notes: /static_files/presentations/lec.zip
-#codes: /static_files/presentations/code.zip
-#tldr: "Short text to discribe what this lecture is about."
+date: 2020-10-03T8:00:00+4:30
+title: Session 2 - Introduction
+video: https://web.microsoftstream.com/video/951139f2-d8c3-4ac3-87b4-c7b0b6e7d56f
+#slides: https://drive.iust.ac.ir/index.php/s/cAmt9OxowvKMgX0/download?path=%2FSlides&files=S1.pdf
+#codes: http://drive.iust.ac.ir/index.php/s/pvH40tElHCvu3MG/download?path=%2FCode&files=S1.zip
+#tldr: "We talked about the philosophy of our approach to Data Strcture and Algorithms, Flipped Classroom, organization of our course, ..."
 #thumbnail: /static_files/presentations/lec.jpg
 ---
