@@ -5,5 +5,5 @@ title: 'Assignment #3 - Algorithmic Warmup'
 pdf: /static_files/assignments/assignment3.pdf
 attachment: /static_files/assignments/A3.zip
 #solutions: /static_files/assignments
-due: 2020-10-17T23:59:00+3:30
+due: 2020-10-16T23:59:00+3:30
 ---
