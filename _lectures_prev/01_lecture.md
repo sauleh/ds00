@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2020-09-28T8:00:00+4:30
+date: 2021-09-28T8:00:00+4:30
 title: Session 1 - Introduction
 video: https://web.microsoftstream.com/video/c331854f-6919-49da-a3db-79e850a501ab
 slides: https://drive.iust.ac.ir/index.php/s/cAmt9OxowvKMgX0/download?path=%2FSlides&files=S1.pdf
